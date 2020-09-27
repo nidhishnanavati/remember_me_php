@@ -12,7 +12,7 @@ if(!isset($_COOKIE['username']))
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>BAsic Webpage</title>
+        <title>Basic Webpage</title>
        <!-- <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />-->
         <!-- Font Awesome icons (free version)-->
     </head>
